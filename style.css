@@ -215,7 +215,6 @@ footer {
 
 .section2__btn {
   width: 150px;
-  padding: 10px;
   border-radius: 20px;
   background-color: white;
   text-transform: uppercase;
@@ -224,8 +223,18 @@ footer {
   margin: 0 auto;
 }
 
-.section2__btn:hover {
+.section2__btn a {
+  text-decoration: none;
+  color: rgb(230, 169, 78);
+  padding: 10px;
+  display: block;
+}
+
+.section2__btn a:hover {
   color: white;
+}
+
+.section2__btn:hover {
   background-color: #fa5738;
   border: 1px solid #fa5738;
 }
@@ -239,6 +248,7 @@ footer {
 
 .section3__content {
   display: flex;
+  padding: 30px;
   flex-flow: column nowrap;
   gap: 20px;
 }
