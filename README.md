@@ -9,7 +9,7 @@ Usei todo meu conhecimento em CSS GRID para a produção dessa página, com base
 
 # Layout de Exemplo
 
-- ![Sites de inspiração](./img/imagem_de_exemplo.jpg)
+![Sites de inspiração](./img/imagem_de_exemplo.jpg)
 
 ## Fontes
 
