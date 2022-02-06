@@ -7,7 +7,9 @@
 
 Usei todo meu conhecimento em CSS GRID para a produção dessa página, com base em meus estudos.
 
-- [Sites de inspiração](./img/imagem_de_exemplo.jpg)
+# Layout de Exemplo
+
+- ![Sites de inspiração](./img/imagem_de_exemplo.jpg)
 
 ## Fontes
 
@@ -15,6 +17,10 @@ Usei todo meu conhecimento em CSS GRID para a produção dessa página, com base
 - [Vídeo Aula Matheus Battisti](https://www.youtube.com/watch?v=8VapN6x897U)
 - [Vídeo Aula Násser Yoursef Ali](https://www.youtube.com/watch?v=k8l7vu-m85Q)
 - [Documentação MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid)
+
+## Imagens
+
+- [Site Pexels](https://www.pexels.com/)
 
 ## Observação
 
